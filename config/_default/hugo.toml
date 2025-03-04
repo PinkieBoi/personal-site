@@ -4,6 +4,7 @@
 
 baseURL = "https://jamesmacpherson.me/"
 defaultContentLanguage = "en"
+theme = "congo"
 
 enableRobotsTXT = true
 summaryLength = 0
