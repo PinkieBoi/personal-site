@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>James MacPherson</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on James MacPherson</description>
+    <title>Mental Health on James MacPherson</title>
+    <link>http://localhost:1313/tags/mental-health/</link>
+    <description>Recent content in Mental Health on James MacPherson</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Mar 2025 19:49:33 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Tue, 04 Mar 2025 19:49:33 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 04 Mar 2025 19:45:53 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 04 Mar 2025 09:50:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Fifth Day</title>
       <link>http://localhost:1313/blog/day-five/</link>
